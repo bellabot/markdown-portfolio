@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Dogs
+- Freinds
+- Boba
+- Working Out
+- The Gym
+- The Beach
+- Sunsets 
