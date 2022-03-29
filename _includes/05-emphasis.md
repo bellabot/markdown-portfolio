@@ -1,0 +1,1 @@
+I am good at *cooking* and **baking**. I enjoy *going* to the **beach** with my friends. I **love** my dog, *Pluto*. 

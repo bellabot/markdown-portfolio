@@ -1,0 +1,7 @@
+- Dogs
+- Freinds
+- Boba
+- Working Out
+- The Gym
+- The Beach
+- Sunsets 
